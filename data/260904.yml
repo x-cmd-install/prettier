@@ -7,18 +7,18 @@ about:
   head: 036e72a
   archived: false
   latestVersion: 3.9.6
-  collectedAt: 2026-09-04T19:21:57Z
+  collectedAt: 2026-09-04T21:11:59Z
 timeline:
   created: 2016-11-29
   lastCommit: 2026-09-04
   lastRelease: 2026-07-21
 popularity:
-  star: 52241
+  star: 52240
   watcher: 456
   fork: 4996
   release: 144
   contributor: 803
-  pullRequest: 12219
+  pullRequest: 12220
   issue: 7333
 language:
   JavaScript: 1756602
@@ -33,7 +33,7 @@ recent:
     since: 2026-08-05
     release: 0
     mergedPR: 102
-    openPR: 24
+    openPR: 25
     closedIssue: 11
     openIssue: 6
     commit: 137
@@ -41,7 +41,7 @@ recent:
     since: 2026-07-06
     release: 2
     mergedPR: 253
-    openPR: 32
+    openPR: 33
     closedIssue: 35
     openIssue: 10
     commit: 343
@@ -49,7 +49,7 @@ recent:
     since: 2026-06-06
     release: 8
     mergedPR: 416
-    openPR: 40
+    openPR: 41
     closedIssue: 66
     openIssue: 18
     commit: 600
@@ -57,7 +57,7 @@ recent:
     since: 2026-03-08
     release: 10
     mergedPR: 609
-    openPR: 52
+    openPR: 53
     closedIssue: 115
     openIssue: 38
     commit: 862
@@ -65,7 +65,7 @@ recent:
     since: 2025-09-09
     release: 17
     mergedPR: 1343
-    openPR: 71
+    openPR: 72
     closedIssue: 255
     openIssue: 111
     commit: 1823
@@ -73,18 +73,116 @@ recent:
     since: 2024-09-14
     release: 27
     mergedPR: 2074
-    openPR: 87
+    openPR: 88
     closedIssue: 467
     openIssue: 237
     commit: 2290
 total:
   release: 144
   mergedPR: 10291
-  openPR: 259
+  openPR: 260
   closedIssue: 6173
   openIssue: 1160
   commit: 11805
 ---
+path: /home/runner/.x-repo/github.com/prettier/prettier
+collectedAt: 2026-09-04T21:12:07Z
+loc:
+  JavaScript:
+    code: 117001
+    comments: 13981
+    blanks: 17199
+    files: 5091
+  TypeScript:
+    code: 11529
+    comments: 1382
+    blanks: 1876
+    files: 667
+  Css:
+    code: 5577
+    comments: 312
+    blanks: 1056
+    files: 185
+  Html:
+    code: 3555
+    comments: 219
+    blanks: 391
+    files: 242
+  Sass:
+    code: 2602
+    comments: 133
+    blanks: 433
+    files: 93
+  Yaml:
+    code: 2288
+    comments: 214
+    blanks: 318
+    files: 373
+  Less:
+    code: 1933
+    comments: 142
+    blanks: 551
+    files: 45
+  Jsx:
+    code: 1741
+    comments: 50
+    blanks: 180
+    files: 16
+  Json:
+    code: 1497
+    comments: 0
+    blanks: 9
+    files: 108
+  Handlebars:
+    code: 1331
+    comments: 57
+    blanks: 309
+    files: 88
+  Graphql:
+    code: 837
+    comments: 91
+    blanks: 193
+    files: 73
+  Vue:
+    code: 521
+    comments: 18
+    blanks: 108
+    files: 97
+  Tsx:
+    code: 323
+    comments: 9
+    blanks: 51
+    files: 22
+  Svg:
+    code: 80
+    comments: 0
+    blanks: 1
+    files: 59
+  Sh:
+    code: 18
+    comments: 1
+    blanks: 6
+    files: 1
+  Toml:
+    code: 6
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 30581
+    blanks: 11623
+    files: 440
+  Text:
+    code: 0
+    comments: 2
+    blanks: 0
+    files: 2
+total:
+  code: 160668
+  comments: 49846
+  blanks: 35966
+  files: 7603
 ---
 date: "2026-08-24"
 repo:
