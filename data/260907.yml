@@ -5,19 +5,19 @@ about:
   head: 7fe4924
   archived: false
   latestVersion: "3.9.6"
-  collectedAt: 2026-09-07T05:41:10Z
+  collectedAt: 2026-09-07T18:55:10Z
 timeline:
   created: 2016-11-29
   lastCommit: 2026-09-07
   lastRelease: 2026-07-21
 popularity:
-  star: 52238
+  star: 52240
   watcher: 456
-  fork: 4996
+  fork: 4998
   release: 144
   contributor: 803
-  pullRequest: 12224
-  issue: 7334
+  pullRequest: 12226
+  issue: 7335
 language:
   JavaScript: 1756727
   CSS: 16327
@@ -31,60 +31,60 @@ recent:
     since: 2026-08-08
     release: 0
     mergedPR: 96
-    openPR: 21
+    openPR: 23
     closedIssue: 6
-    openIssue: 6
+    openIssue: 7
     commit: 115
   last60d:
     since: 2026-07-09
     release: 2
     mergedPR: 234
-    openPR: 31
+    openPR: 33
     closedIssue: 31
-    openIssue: 9
+    openIssue: 10
     commit: 303
   last90d:
     since: 2026-06-09
     release: 8
     mergedPR: 396
-    openPR: 40
+    openPR: 42
     closedIssue: 65
-    openIssue: 18
+    openIssue: 19
     commit: 562
   last180d:
     since: 2026-03-11
     release: 10
     mergedPR: 610
-    openPR: 53
+    openPR: 55
     closedIssue: 116
-    openIssue: 37
+    openIssue: 38
     commit: 868
   last360d:
     since: 2025-09-12
     release: 17
     mergedPR: 1318
-    openPR: 72
+    openPR: 74
     closedIssue: 254
-    openIssue: 109
+    openIssue: 110
     commit: 1796
   last720d:
     since: 2024-09-17
     release: 27
     mergedPR: 2078
-    openPR: 88
+    openPR: 90
     closedIssue: 464
-    openIssue: 237
+    openIssue: 238
     commit: 2295
 total:
   release: 144
   mergedPR: 10295
-  openPR: 260
+  openPR: 262
   closedIssue: 6174
-  openIssue: 1160
+  openIssue: 1161
   commit: 11810
 ---
 path: /home/runner/.x-repo/github.com/prettier/prettier
-collectedAt: 2026-09-07T05:41:31Z
+collectedAt: 2026-09-07T18:55:32Z
 loc:
   JavaScript:
     code: 117013
@@ -281,7 +281,7 @@ checks:
       - 'Info: all commits (30) are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:41:33+00:00
+  collectedAt: 2026-09-07T18:55:34+00:00
   platform:
     darwin/arm64:
       name:  null
