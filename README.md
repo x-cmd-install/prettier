@@ -14,11 +14,11 @@ x install prettier
 
 ## Code insight
 
-Total: **150,946** lines of code across **6286** files in the top 5 languages.
+Total: **151,002** lines of code across **6279** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 117,069 | 13,990 | 17,218 | 5097 |
+| JavaScript | 117,108 | 13,993 | 17,230 | 5090 |
 | TypeScript | 11,529 | 1,382 | 1,876 | 667 |
 | Css | 5,577 | 312 | 1,056 | 185 |
 | Html | 3,578 | 219 | 392 | 244 |
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 52,242 · **Forks**: 4,991 · **Open issues**: 7,338 · **Contributors**: 806
+- **Stars**: 52,247 · **Forks**: 4,993 · **Open issues**: 7,339 · **Contributors**: 806
 
 ## Totals (cumulative)
 
-- **Releases**: 144 · **Merged PRs**: 10309 · **Open PRs**: 273 · **Closed issues**: 6177 · **Open issues**: 1161 · **Commits**: 11824
+- **Releases**: 144 · **Merged PRs**: 10313 · **Open PRs**: 274 · **Closed issues**: 6178 · **Open issues**: 1161 · **Commits**: 11829
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 99 | 34 | 7 | 9 | 133 |
-| last60d | 2026-07-13 | 1 | 231 | 43 | 27 | 12 | 321 |
-| 90d | 2026-06-13 | 7 | 395 | 50 | 66 | 20 | 580 |
-| last180d | 2026-03-15 | 10 | 622 | 66 | 118 | 38 | 886 |
-| 360d | 2025-09-16 | 17 | 1330 | 85 | 257 | 109 | 1814 |
-| last720d | 2024-09-21 | 27 | 2079 | 101 | 466 | 238 | 2296 |
+| 30d | 2026-08-12 | 0 | 103 | 35 | 8 | 9 | 141 |
+| last60d | 2026-07-13 | 1 | 235 | 44 | 28 | 12 | 329 |
+| 90d | 2026-06-13 | 7 | 399 | 51 | 67 | 20 | 588 |
+| last180d | 2026-03-15 | 10 | 626 | 67 | 119 | 38 | 894 |
+| 360d | 2025-09-16 | 17 | 1334 | 86 | 258 | 109 | 1822 |
+| last720d | 2024-09-21 | 27 | 2083 | 102 | 467 | 238 | 2301 |
 
 ## Distribution status
 
@@ -84,4 +84,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:56:02Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:00:33Z._
