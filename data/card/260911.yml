@@ -2,12 +2,12 @@ about:
   description: "Prettier is an opinionated code formatter."
   license: MIT
   homepage: https://prettier.io
-  head: 691525d
+  head: 60a1d7e
   archived: false
   latestVersion: "3.9.6"
   latestRelease: "3.9.6"
   latestPrerelease: "4.0.0-alpha.3"
-  collectedAt: 2026-09-11T05:55:33Z
+  collectedAt: 2026-09-11T18:59:55Z
 timeline:
   created: 2016-11-29
   lastCommit: 2026-09-11
@@ -15,86 +15,86 @@ timeline:
   lastRelease: 2026-07-21
   lastPrerelease: 2023-12-01
 popularity:
-  star: 52242
+  star: 52247
   watcher: 450
-  fork: 4991
+  fork: 4993
   release: 144
   contributor: 806
-  pullRequest: 12254
-  issue: 7338
+  pullRequest: 12259
+  issue: 7339
 language:
-  JavaScript: 1757662
+  JavaScript: 1758039
   CSS: 16327
   Vue: 4172
   HTML: 2754
   MDX: 2185
   Shell: 519
-totalBytes: 1783619
+totalBytes: 1783996
 recent:
   last30d:
     since: 2026-08-12
     release: 0
-    mergedPR: 99
-    openPR: 34
-    closedIssue: 7
+    mergedPR: 103
+    openPR: 35
+    closedIssue: 8
     openIssue: 9
-    commit: 133
+    commit: 141
   last60d:
     since: 2026-07-13
     release: 1
-    mergedPR: 231
-    openPR: 43
-    closedIssue: 27
+    mergedPR: 235
+    openPR: 44
+    closedIssue: 28
     openIssue: 12
-    commit: 321
+    commit: 329
   last90d:
     since: 2026-06-13
     release: 7
-    mergedPR: 395
-    openPR: 50
-    closedIssue: 66
+    mergedPR: 399
+    openPR: 51
+    closedIssue: 67
     openIssue: 20
-    commit: 580
+    commit: 588
   last180d:
     since: 2026-03-15
     release: 10
-    mergedPR: 622
-    openPR: 66
-    closedIssue: 118
+    mergedPR: 626
+    openPR: 67
+    closedIssue: 119
     openIssue: 38
-    commit: 886
+    commit: 894
   last360d:
     since: 2025-09-16
     release: 17
-    mergedPR: 1330
-    openPR: 85
-    closedIssue: 257
+    mergedPR: 1334
+    openPR: 86
+    closedIssue: 258
     openIssue: 109
-    commit: 1814
+    commit: 1822
   last720d:
     since: 2024-09-21
     release: 27
-    mergedPR: 2079
-    openPR: 101
-    closedIssue: 466
+    mergedPR: 2083
+    openPR: 102
+    closedIssue: 467
     openIssue: 238
-    commit: 2296
+    commit: 2301
 total:
   release: 144
-  mergedPR: 10309
-  openPR: 273
-  closedIssue: 6177
+  mergedPR: 10313
+  openPR: 274
+  closedIssue: 6178
   openIssue: 1161
-  commit: 11824
+  commit: 11829
 ---
 path: /home/runner/.x-repo/github.com/prettier/prettier
-collectedAt: 2026-09-11T05:55:56Z
+collectedAt: 2026-09-11T19:00:24Z
 loc:
   JavaScript:
-    code: 117069
-    comments: 13990
-    blanks: 17218
-    files: 5097
+    code: 117108
+    comments: 13993
+    blanks: 17230
+    files: 5090
   TypeScript:
     code: 11529
     comments: 1382
@@ -136,10 +136,10 @@ loc:
     blanks: 9
     files: 108
   Handlebars:
-    code: 1331
+    code: 1348
     comments: 57
-    blanks: 309
-    files: 88
+    blanks: 319
+    files: 87
   Graphql:
     code: 837
     comments: 91
@@ -172,19 +172,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 30638
-    blanks: 11636
-    files: 446
+    comments: 30683
+    blanks: 11643
+    files: 449
   Text:
     code: 0
     comments: 2
     blanks: 0
     files: 2
 total:
-  code: 160827
-  comments: 49926
-  blanks: 36008
-  files: 7620
+  code: 160886
+  comments: 49977
+  blanks: 36039
+  files: 7615
 ---
 date: "2026-09-07"
 repo:
