@@ -14,7 +14,7 @@ x install prettier
 
 ## Code insight
 
-Total: **151,131** lines of code across **6274** files in the top 5 languages.
+Total: **151,133** lines of code across **6274** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `3.9.7` (2026-09-16)
-- **Last commit**: 2026-09-16
+- **Latest**: `3.9.8` (2026-09-17)
+- **Last commit**: 2026-09-17
 
 ## Popularity
 
-- **Stars**: 52,334 · **Forks**: 5,002 · **Open issues**: 7,348 · **Contributors**: 812
+- **Stars**: 52,276 · **Forks**: 5,005 · **Open issues**: 7,351 · **Contributors**: 812
 
 ## Totals (cumulative)
 
-- **Releases**: 145 · **Merged PRs**: 10348 · **Open PRs**: 277 · **Closed issues**: 6192 · **Open issues**: 1156 · **Commits**: 11885
+- **Releases**: 146 · **Merged PRs**: 10350 · **Open PRs**: 276 · **Closed issues**: 6193 · **Open issues**: 1158 · **Commits**: 11894
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 111 | 31 | 16 | 10 | 159 |
-| last60d | 2026-07-19 | 2 | 234 | 46 | 32 | 13 | 326 |
-| 90d | 2026-06-19 | 8 | 389 | 54 | 70 | 22 | 612 |
-| last180d | 2026-03-21 | 11 | 657 | 70 | 125 | 38 | 959 |
-| 360d | 2025-09-22 | 18 | 1346 | 89 | 267 | 108 | 1831 |
-| last720d | 2024-09-27 | 28 | 2108 | 106 | 474 | 235 | 2356 |
+| 30d | 2026-08-19 | 2 | 110 | 30 | 17 | 12 | 171 |
+| last60d | 2026-07-20 | 3 | 235 | 45 | 33 | 15 | 338 |
+| 90d | 2026-06-20 | 9 | 390 | 53 | 71 | 24 | 624 |
+| last180d | 2026-03-22 | 12 | 652 | 69 | 126 | 40 | 971 |
+| 360d | 2025-09-23 | 19 | 1334 | 88 | 266 | 110 | 1843 |
+| last720d | 2024-09-28 | 29 | 2109 | 105 | 475 | 237 | 2349 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:15:56Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:02:03Z._
