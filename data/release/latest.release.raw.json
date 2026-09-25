@@ -43,8 +43,8 @@
   "body": "- Markdown: Fix text with `$` been incorrectly parsed as math syntax ([#20140](https://github.com/prettier/prettier/pull/20140) by [@fisker](https://github.com/fisker))\r\n\r\n\r\n🔗 [Changelog](https://github.com/prettier/prettier/blob/3.9.9/CHANGELOG.md#399)",
   "reactions": {
     "url": "https://api.github.com/repos/prettier/prettier/releases/394351761/reactions",
-    "total_count": 2,
-    "+1": 1,
+    "total_count": 3,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
