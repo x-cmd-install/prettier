@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.9.9` (2026-09-23)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-29
 
 ## Popularity
 
-- **Stars**: 52,317 · **Forks**: 5,021 · **Open issues**: 7,373 · **Contributors**: 813
+- **Stars**: 52,319 · **Forks**: 5,021 · **Open issues**: 7,373 · **Contributors**: 813
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 10378 · **Open PRs**: 290 · **Closed issues**: 6199 · **Open issues**: 1174 · **Commits**: 11929
+- **Releases**: 147 · **Merged PRs**: 10381 · **Open PRs**: 294 · **Closed issues**: 6199 · **Open issues**: 1174 · **Commits**: 11932
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 3 | 100 | 44 | 16 | 29 | 164 |
-| last60d | 2026-07-31 | 3 | 202 | 60 | 30 | 31 | 302 |
-| 90d | 2026-07-01 | 5 | 351 | 66 | 60 | 37 | 543 |
-| last180d | 2026-04-02 | 13 | 668 | 83 | 124 | 57 | 1010 |
-| 360d | 2025-10-04 | 20 | 1325 | 103 | 266 | 122 | 1844 |
-| last720d | 2024-10-09 | 30 | 2113 | 120 | 472 | 248 | 2364 |
+| 30d | 2026-08-31 | 3 | 102 | 48 | 16 | 29 | 165 |
+| last60d | 2026-08-01 | 3 | 204 | 63 | 30 | 31 | 303 |
+| 90d | 2026-07-02 | 5 | 352 | 70 | 56 | 36 | 544 |
+| last180d | 2026-04-03 | 13 | 671 | 87 | 124 | 57 | 1011 |
+| 360d | 2025-10-05 | 20 | 1325 | 107 | 265 | 122 | 1845 |
+| last720d | 2024-10-10 | 30 | 2116 | 124 | 472 | 247 | 2363 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:41:00Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:33:31Z._
