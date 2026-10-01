@@ -26,12 +26,12 @@ Total: **151,307** lines of code across **6282** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **5.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/21 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (1/10) — Found 2/17 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.9.9` (2026-09-23)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-10-01
 
 ## Popularity
 
-- **Stars**: 52,319 · **Forks**: 5,021 · **Open issues**: 7,373 · **Contributors**: 813
+- **Stars**: 52,318 · **Forks**: 5,028 · **Open issues**: 7,374 · **Contributors**: 813
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 10381 · **Open PRs**: 294 · **Closed issues**: 6199 · **Open issues**: 1174 · **Commits**: 11932
+- **Releases**: 147 · **Merged PRs**: 10383 · **Open PRs**: 302 · **Closed issues**: 6200 · **Open issues**: 1174 · **Commits**: 11934
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 3 | 102 | 48 | 16 | 29 | 165 |
-| last60d | 2026-08-01 | 3 | 204 | 63 | 30 | 31 | 303 |
-| 90d | 2026-07-02 | 5 | 352 | 70 | 56 | 36 | 544 |
-| last180d | 2026-04-03 | 13 | 671 | 87 | 124 | 57 | 1011 |
-| 360d | 2025-10-05 | 20 | 1325 | 107 | 265 | 122 | 1845 |
-| last720d | 2024-10-10 | 30 | 2116 | 124 | 472 | 247 | 2363 |
+| 30d | 2026-09-01 | 3 | 100 | 55 | 16 | 30 | 167 |
+| last60d | 2026-08-02 | 3 | 199 | 71 | 30 | 32 | 305 |
+| 90d | 2026-07-03 | 5 | 354 | 77 | 56 | 36 | 546 |
+| last180d | 2026-04-04 | 13 | 673 | 95 | 124 | 58 | 1013 |
+| 360d | 2025-10-06 | 20 | 1327 | 115 | 265 | 123 | 1847 |
+| last720d | 2024-10-11 | 30 | 2118 | 132 | 472 | 247 | 2363 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:33:31Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:52:02Z._
