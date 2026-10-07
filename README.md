@@ -26,12 +26,12 @@ Total: **151,273** lines of code across **6288** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.7 / 10**
+Overall score: **6 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (3/10) — Found 5/15 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (1/10) — Found 2/17 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 52,376 · **Forks**: 5,032 · **Open issues**: 7,376 · **Contributors**: 813
+- **Stars**: 52,411 · **Forks**: 5,037 · **Open issues**: 7,376 · **Contributors**: 813
 
 ## Totals (cumulative)
 
-- **Releases**: 147 · **Merged PRs**: 10396 · **Open PRs**: 301 · **Closed issues**: 6207 · **Open issues**: 1169 · **Commits**: 11945
+- **Releases**: 147 · **Merged PRs**: 10396 · **Open PRs**: 306 · **Closed issues**: 6208 · **Open issues**: 1168 · **Commits**: 11945
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 3 | 98 | 55 | 18 | 26 | 160 |
-| last60d | 2026-08-07 | 3 | 198 | 70 | 32 | 29 | 309 |
-| 90d | 2026-07-08 | 5 | 342 | 76 | 54 | 33 | 491 |
-| last180d | 2026-04-09 | 13 | 675 | 93 | 123 | 55 | 982 |
-| 360d | 2025-10-11 | 20 | 1302 | 114 | 268 | 118 | 1802 |
-| last720d | 2024-10-16 | 30 | 2126 | 130 | 477 | 241 | 2371 |
+| 30d | 2026-09-07 | 3 | 96 | 58 | 18 | 25 | 160 |
+| last60d | 2026-08-08 | 3 | 197 | 72 | 27 | 29 | 309 |
+| 90d | 2026-07-09 | 5 | 335 | 81 | 52 | 32 | 491 |
+| last180d | 2026-04-10 | 13 | 663 | 98 | 124 | 53 | 982 |
+| 360d | 2025-10-12 | 20 | 1295 | 119 | 267 | 117 | 1802 |
+| last720d | 2024-10-17 | 30 | 2125 | 135 | 478 | 239 | 2370 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:21:15Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:56:12Z._

@@ -26,12 +26,12 @@ x install prettier
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.7 / 10**
+总评分: **6 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (3/10) — Found 5/15 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (1/10) — Found 2/17 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,22 +47,22 @@ x install prettier
 
 ## 流行度
 
-- **Star**: 52,376 · **Fork**: 5,032 · **开放 issue**: 7,376 · **贡献者**: 813
+- **Star**: 52,411 · **Fork**: 5,037 · **开放 issue**: 7,376 · **贡献者**: 813
 
 ## 累计统计
 
-- **发布数**: 147 · **已合并 PR**: 10396 · **开放 PR**: 301 · **已关闭 issue**: 6207 · **开放 issue**: 1169 · **提交数**: 11945
+- **发布数**: 147 · **已合并 PR**: 10396 · **开放 PR**: 306 · **已关闭 issue**: 6208 · **开放 issue**: 1168 · **提交数**: 11945
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 3 | 98 | 55 | 18 | 26 | 160 |
-| last60d | 2026-08-07 | 3 | 198 | 70 | 32 | 29 | 309 |
-| 90d | 2026-07-08 | 5 | 342 | 76 | 54 | 33 | 491 |
-| last180d | 2026-04-09 | 13 | 675 | 93 | 123 | 55 | 982 |
-| 360d | 2025-10-11 | 20 | 1302 | 114 | 268 | 118 | 1802 |
-| last720d | 2024-10-16 | 30 | 2126 | 130 | 477 | 241 | 2371 |
+| 30d | 2026-09-07 | 3 | 96 | 58 | 18 | 25 | 160 |
+| last60d | 2026-08-08 | 3 | 197 | 72 | 27 | 29 | 309 |
+| 90d | 2026-07-09 | 5 | 335 | 81 | 52 | 32 | 491 |
+| last180d | 2026-04-10 | 13 | 663 | 98 | 124 | 53 | 982 |
+| 360d | 2025-10-12 | 20 | 1295 | 119 | 267 | 117 | 1802 |
+| last720d | 2024-10-17 | 30 | 2125 | 135 | 478 | 239 | 2370 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ prettier 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T07:21:16Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T06:56:13Z._
