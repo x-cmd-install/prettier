@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 52,431 · **Forks**: 5,036 · **Open issues**: 7,377 · **Contributors**: 816
+- **Stars**: 52,447 · **Forks**: 5,037 · **Open issues**: 7,377 · **Contributors**: 816
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 4 | 102 | 45 | 16 | 23 | 110 |
-| last60d | 2026-08-12 | 4 | 214 | 65 | 29 | 27 | 292 |
-| 90d | 2026-07-13 | 5 | 346 | 73 | 49 | 30 | 459 |
-| last180d | 2026-04-14 | 13 | 685 | 91 | 125 | 50 | 999 |
-| 360d | 2025-10-16 | 21 | 1307 | 112 | 269 | 106 | 1811 |
-| last720d | 2024-10-21 | 31 | 2147 | 128 | 481 | 232 | 2391 |
+| 30d | 2026-09-12 | 4 | 94 | 44 | 15 | 23 | 110 |
+| last60d | 2026-08-13 | 4 | 207 | 64 | 29 | 27 | 292 |
+| 90d | 2026-07-14 | 5 | 339 | 73 | 48 | 30 | 459 |
+| last180d | 2026-04-15 | 13 | 681 | 91 | 125 | 50 | 999 |
+| 360d | 2025-10-17 | 21 | 1304 | 112 | 267 | 106 | 1811 |
+| last720d | 2024-10-22 | 31 | 2147 | 128 | 480 | 231 | 2391 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:35:00Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T06:58:01Z._
