@@ -26,13 +26,13 @@ x install prettier
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6 / 10**
+总评分: **6.2 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (3/10) — Found 5/15 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install prettier
 
 ## 流行度
 
-- **Star**: 52,452 · **Fork**: 5,040 · **开放 issue**: 7,378 · **贡献者**: 822
+- **Star**: 52,372 · **Fork**: 5,039 · **开放 issue**: 7,378 · **贡献者**: 822
 
 ## 累计统计
 
-- **发布数**: 148 · **已合并 PR**: 10441 · **开放 PR**: 285 · **已关闭 issue**: 6224 · **开放 issue**: 1154 · **提交数**: 11994
+- **发布数**: 148 · **已合并 PR**: 10441 · **开放 PR**: 289 · **已关闭 issue**: 6224 · **开放 issue**: 1154 · **提交数**: 11994
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 4 | 102 | 29 | 17 | 16 | 135 |
-| last60d | 2026-08-15 | 4 | 215 | 51 | 33 | 22 | 317 |
-| 90d | 2026-07-16 | 5 | 340 | 58 | 50 | 26 | 484 |
-| last180d | 2026-04-17 | 12 | 698 | 77 | 129 | 46 | 1024 |
-| 360d | 2025-10-19 | 21 | 1317 | 98 | 268 | 102 | 1836 |
-| last720d | 2024-10-24 | 31 | 2161 | 114 | 483 | 226 | 2406 |
+| 30d | 2026-09-15 | 4 | 92 | 33 | 15 | 16 | 135 |
+| last60d | 2026-08-16 | 4 | 214 | 53 | 33 | 22 | 317 |
+| 90d | 2026-07-17 | 5 | 335 | 62 | 49 | 26 | 484 |
+| last180d | 2026-04-18 | 12 | 695 | 81 | 129 | 46 | 1024 |
+| 360d | 2025-10-20 | 21 | 1312 | 102 | 267 | 102 | 1836 |
+| last720d | 2024-10-25 | 31 | 2161 | 118 | 482 | 226 | 2404 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ prettier 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:48:35Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:28:40Z._
