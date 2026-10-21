@@ -26,13 +26,13 @@ x install prettier
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.2 / 10**
+总评分: **6.1 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (4/10) — Found 9/19 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install prettier
 
 ## 流行度
 
-- **Star**: 52,386 · **Fork**: 5,051 · **开放 issue**: 7,382 · **贡献者**: 825
+- **Star**: 52,375 · **Fork**: 5,011 · **开放 issue**: 7,382 · **贡献者**: 825
 
 ## 累计统计
 
-- **发布数**: 148 · **已合并 PR**: 10461 · **开放 PR**: 294 · **已关闭 issue**: 6229 · **开放 issue**: 1153 · **提交数**: 12014
+- **发布数**: 148 · **已合并 PR**: 10461 · **开放 PR**: 296 · **已关闭 issue**: 6229 · **开放 issue**: 1153 · **提交数**: 12014
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 94 | 33 | 13 | 13 | 110 |
-| last60d | 2026-08-21 | 4 | 210 | 59 | 33 | 24 | 309 |
-| 90d | 2026-07-22 | 4 | 331 | 68 | 51 | 27 | 448 |
-| last180d | 2026-04-23 | 12 | 712 | 85 | 125 | 46 | 1046 |
-| 360d | 2025-10-25 | 21 | 1321 | 108 | 268 | 102 | 1828 |
-| last720d | 2024-10-30 | 31 | 2166 | 123 | 483 | 227 | 2416 |
+| 30d | 2026-09-21 | 2 | 91 | 33 | 13 | 13 | 110 |
+| last60d | 2026-08-22 | 4 | 210 | 61 | 33 | 24 | 309 |
+| 90d | 2026-07-23 | 4 | 323 | 69 | 51 | 27 | 448 |
+| last180d | 2026-04-24 | 12 | 711 | 86 | 125 | 45 | 1046 |
+| 360d | 2025-10-26 | 21 | 1317 | 110 | 268 | 102 | 1828 |
+| last720d | 2024-10-31 | 31 | 2165 | 125 | 483 | 227 | 2411 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ prettier 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:48:41Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:40:04Z._
