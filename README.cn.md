@@ -26,13 +26,13 @@ x install prettier
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.1 / 10**
+总评分: **5.8 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (4/10) — Found 9/19 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install prettier
 
 ## 流行度
 
-- **Star**: 52,386 · **Fork**: 5,008 · **开放 issue**: 7,385 · **贡献者**: 827
+- **Star**: 52,385 · **Fork**: 5,011 · **开放 issue**: 7,387 · **贡献者**: 827
 
 ## 累计统计
 
-- **发布数**: 148 · **已合并 PR**: 10473 · **开放 PR**: 311 · **已关闭 issue**: 6231 · **开放 issue**: 1154 · **提交数**: 12026
+- **发布数**: 148 · **已合并 PR**: 10473 · **开放 PR**: 317 · **已关闭 issue**: 6231 · **开放 issue**: 1156 · **提交数**: 12026
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 83 | 47 | 12 | 14 | 121 |
-| last60d | 2026-08-28 | 4 | 209 | 76 | 32 | 25 | 295 |
-| 90d | 2026-07-29 | 4 | 300 | 85 | 48 | 26 | 435 |
-| last180d | 2026-04-30 | 12 | 713 | 101 | 123 | 46 | 1055 |
-| 360d | 2025-11-01 | 21 | 1296 | 125 | 255 | 101 | 1794 |
-| last720d | 2024-11-06 | 31 | 2170 | 141 | 483 | 224 | 2417 |
+| 30d | 2026-09-28 | 1 | 83 | 53 | 2 | 10 | 121 |
+| last60d | 2026-08-29 | 4 | 197 | 82 | 32 | 27 | 295 |
+| 90d | 2026-07-30 | 4 | 298 | 91 | 47 | 28 | 435 |
+| last180d | 2026-05-01 | 12 | 713 | 107 | 123 | 48 | 1055 |
+| 360d | 2025-11-02 | 21 | 1290 | 131 | 254 | 102 | 1794 |
+| last720d | 2024-11-07 | 31 | 2169 | 147 | 483 | 226 | 2417 |
 
 ## 发行版状态
 
@@ -84,4 +84,4 @@ prettier 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:58:24Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T06:49:46Z._
