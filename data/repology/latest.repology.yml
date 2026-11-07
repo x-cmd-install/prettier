@@ -1,25 +1,3 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: prettier
-  binname: prettier
-  visiblename: prettier
-  version: 3.8.1
-  origversion: 3.8.1-1
-  status: outdated
-  summary: An opinionated code formatter
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: prettier
-  binname: prettier
-  visiblename: prettier
-  version: 3.0.3
-  origversion: 3.0.3-1
-  status: outdated
-  summary: An opinionated code formatter for JS, JSON, CSS, YAML and much more
-  licenses:
-    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: prettier
@@ -143,10 +121,32 @@
   srcname: prettier
   binname: prettier
   visiblename: prettier
-  version: 3.0.3
-  origversion: 3.0.3-1
+  version: 3.8.1
+  origversion: 3.8.1-1
   status: outdated
-  summary: An opinionated code formatter for JS, JSON, CSS, YAML and much more
+  summary: An opinionated code formatter
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: prettier
+  binname: prettier
+  visiblename: prettier
+  version: 3.8.1
+  origversion: 3.8.1-1
+  status: outdated
+  summary: An opinionated code formatter
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: prettier
+  binname: prettier
+  visiblename: prettier
+  version: 3.8.1
+  origversion: 3.8.1-1
+  status: outdated
+  summary: An opinionated code formatter
   licenses:
     - MIT
 - repo: msys2_clang64
