@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 52,406 · **Forks**: 5,026 · **Open issues**: 7,393 · **Contributors**: 830
+- **Stars**: 52,407 · **Forks**: 5,027 · **Open issues**: 7,394 · **Contributors**: 830
 
 ## Totals (cumulative)
 
-- **Releases**: 148 · **Merged PRs**: 10517 · **Open PRs**: 324 · **Closed issues**: 6240 · **Open issues**: 1153 · **Commits**: 12070
+- **Releases**: 148 · **Merged PRs**: 10517 · **Open PRs**: 326 · **Closed issues**: 6240 · **Open issues**: 1154 · **Commits**: 12070
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 1 | 104 | 48 | 7 | 9 | 156 |
-| last60d | 2026-09-07 | 4 | 215 | 82 | 34 | 25 | 331 |
-| 90d | 2026-08-08 | 4 | 317 | 95 | 44 | 28 | 475 |
-| last180d | 2026-05-10 | 12 | 740 | 115 | 126 | 46 | 1096 |
-| 360d | 2025-11-11 | 21 | 1312 | 138 | 255 | 99 | 1849 |
-| last720d | 2024-11-16 | 31 | 2209 | 154 | 486 | 223 | 2458 |
+| 30d | 2026-10-08 | 1 | 102 | 50 | 7 | 10 | 156 |
+| last60d | 2026-09-08 | 4 | 211 | 78 | 33 | 26 | 331 |
+| 90d | 2026-08-09 | 4 | 312 | 97 | 44 | 29 | 475 |
+| last180d | 2026-05-11 | 12 | 740 | 117 | 125 | 45 | 1096 |
+| 360d | 2025-11-12 | 21 | 1312 | 140 | 255 | 100 | 1849 |
+| last720d | 2024-11-17 | 31 | 2209 | 156 | 486 | 224 | 2458 |
 
 ## Distribution status
 
@@ -84,4 +84,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:47:10Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:54:28Z._
