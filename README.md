@@ -47,33 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 52,407 · **Forks**: 5,027 · **Open issues**: 7,394 · **Contributors**: 830
+- **Stars**: 52,407 · **Forks**: 5,029 · **Open issues**: 7,395 · **Contributors**: 830
 
 ## Totals (cumulative)
 
-- **Releases**: 148 · **Merged PRs**: 10517 · **Open PRs**: 326 · **Closed issues**: 6240 · **Open issues**: 1154 · **Commits**: 12070
+- **Releases**: 148 · **Merged PRs**: 10517 · **Open PRs**: 329 · **Closed issues**: 6240 · **Open issues**: 1155 · **Commits**: 12070
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 1 | 102 | 50 | 7 | 10 | 156 |
-| last60d | 2026-09-08 | 4 | 211 | 78 | 33 | 26 | 331 |
-| 90d | 2026-08-09 | 4 | 312 | 97 | 44 | 29 | 475 |
-| last180d | 2026-05-11 | 12 | 740 | 117 | 125 | 45 | 1096 |
-| 360d | 2025-11-12 | 21 | 1312 | 140 | 255 | 100 | 1849 |
-| last720d | 2024-11-17 | 31 | 2209 | 156 | 486 | 224 | 2458 |
-
-## Distribution status
-
-Reported by **28** distros on [repology.org](https://repology.org/project/prettier). **5** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `3.8.1` | ⚠️ outdated |
-| Homebrew | `3.9.10` | ✅ latest |
-| Nix unstable | `3.9.10` | ✅ latest |
-| Alpine edge | `3.8.4` | ⚠️ outdated |
+| 30d | 2026-10-09 | 1 | 90 | 53 | 6 | 11 | 96 |
+| last60d | 2026-09-09 | 4 | 209 | 81 | 32 | 27 | 257 |
+| 90d | 2026-08-10 | 4 | 312 | 100 | 44 | 30 | 436 |
+| last180d | 2026-05-12 | 12 | 739 | 120 | 125 | 46 | 1091 |
+| 360d | 2025-11-13 | 21 | 1312 | 143 | 255 | 101 | 1776 |
+| last720d | 2024-11-18 | 31 | 2209 | 159 | 486 | 225 | 2458 |
 
 ## Improve this data
 
@@ -84,4 +73,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:54:28Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:57:04Z._
