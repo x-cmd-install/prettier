@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/prettier/prettier/releases/408811586",
-  "assets_url": "https://api.github.com/repos/prettier/prettier/releases/408811586/assets",
-  "upload_url": "https://uploads.github.com/repos/prettier/prettier/releases/408811586/assets{?name,label}",
-  "html_url": "https://github.com/prettier/prettier/releases/tag/3.9.10",
-  "id": 408811586,
+  "url": "https://api.github.com/repos/prettier/prettier/releases/442599318",
+  "assets_url": "https://api.github.com/repos/prettier/prettier/releases/442599318/assets",
+  "upload_url": "https://uploads.github.com/repos/prettier/prettier/releases/442599318/assets{?name,label}",
+  "html_url": "https://github.com/prettier/prettier/releases/tag/3.10.1",
+  "id": 442599318,
   "author": {
     "login": "fisker",
     "id": 172584,
@@ -25,32 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOBHn_e84YXfhC",
-  "tag_name": "3.9.10",
+  "node_id": "RE_kwDOBHn_e84aYYeW",
+  "tag_name": "3.10.1",
   "target_commitish": "main",
-  "name": "3.9.10",
+  "name": "3.10.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-10T08:31:17Z",
-  "updated_at": "2026-10-10T08:36:47Z",
-  "published_at": "2026-10-10T08:36:47Z",
+  "created_at": "2026-11-12T07:01:29Z",
+  "updated_at": "2026-11-12T07:08:43Z",
+  "published_at": "2026-11-12T07:08:43Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/prettier/prettier/tarball/3.9.10",
-  "zipball_url": "https://api.github.com/repos/prettier/prettier/zipball/3.9.10",
-  "body": "- Markdown: Update `micromark-extension-gfm-table` to fix the table parse issue on performance ([#20266](https://github.com/prettier/prettier/pull/20266) by [@fisker](https://github.com/fisker))\r\n\r\n🔗 [Changelog](https://github.com/prettier/prettier/blob/3.9.10/CHANGELOG.md#3910)",
-  "reactions": {
-    "url": "https://api.github.com/repos/prettier/prettier/releases/408811586/reactions",
-    "total_count": 10,
-    "+1": 5,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 2,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 2,
-    "eyes": 1
-  }
+  "tarball_url": "https://api.github.com/repos/prettier/prettier/tarball/3.10.1",
+  "zipball_url": "https://api.github.com/repos/prettier/prettier/zipball/3.10.1",
+  "body": "- GraphQL: Fix empty selection set with comments ([#20504](https://github.com/prettier/prettier/pull/20504) by [@fisker](https://github.com/fisker))\r\n\r\n🔗 [Changelog](https://github.com/prettier/prettier/blob/3.10.1/CHANGELOG.md#3101)"
 }
