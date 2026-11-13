@@ -40,5 +40,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/prettier/prettier/tarball/3.10.1",
   "zipball_url": "https://api.github.com/repos/prettier/prettier/zipball/3.10.1",
-  "body": "- GraphQL: Fix empty selection set with comments ([#20504](https://github.com/prettier/prettier/pull/20504) by [@fisker](https://github.com/fisker))\r\n\r\n🔗 [Changelog](https://github.com/prettier/prettier/blob/3.10.1/CHANGELOG.md#3101)"
+  "body": "- GraphQL: Fix empty selection set with comments ([#20504](https://github.com/prettier/prettier/pull/20504) by [@fisker](https://github.com/fisker))\r\n\r\n🔗 [Changelog](https://github.com/prettier/prettier/blob/3.10.1/CHANGELOG.md#3101)",
+  "reactions": {
+    "url": "https://api.github.com/repos/prettier/prettier/releases/442599318/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 1
+  }
 }

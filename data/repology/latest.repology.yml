@@ -1,3 +1,15 @@
+- repo: nix_stable_25_11
+  srcname: prettier
+  visiblename: prettier
+  version: 3.6.2
+  origversion: null
+  status: outdated
+  summary: Code formatter
+  maintainers:
+    - victor@engmark.name
+    - s0ands0@digital-mercenaries.com
+  licenses:
+    - MIT
 - repo: alpine_3_23
   subrepo: community
   srcname: prettier
@@ -105,7 +117,7 @@
 - repo: homebrew
   srcname: prettier
   visiblename: prettier
-  version: 3.9.10
+  version: 3.10.0
   origversion: null
   status: newest
   summary: Code formatter for JavaScript, CSS, JSON, GraphQL, Markdown, YAML
@@ -155,7 +167,7 @@
   visiblename: mingw-w64-clang-x86_64-prettier
   version: 3.9.10
   origversion: 3.9.10-1
-  status: newest
+  status: outdated
   summary: An opinionated code formatter (mingw-w64)
   licenses:
     - spdx:MIT
@@ -165,7 +177,7 @@
   visiblename: mingw-w64-clang-aarch64-prettier
   version: 3.9.10
   origversion: 3.9.10-1
-  status: newest
+  status: outdated
   summary: An opinionated code formatter (mingw-w64)
   licenses:
     - spdx:MIT
@@ -175,7 +187,7 @@
   visiblename: mingw-w64-ucrt-x86_64-prettier
   version: 3.9.10
   origversion: 3.9.10-1
-  status: newest
+  status: outdated
   summary: An opinionated code formatter (mingw-w64)
   licenses:
     - spdx:MIT
@@ -257,18 +269,6 @@
     - MIT
   categories:
     - nodePackages_latest
-- repo: nix_stable_25_11
-  srcname: prettier
-  visiblename: prettier
-  version: 3.6.2
-  origversion: null
-  status: outdated
-  summary: Code formatter
-  maintainers:
-    - victor@engmark.name
-    - s0ands0@digital-mercenaries.com
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: prettier
   visiblename: prettier
@@ -286,7 +286,7 @@
   visiblename: prettier
   version: 3.9.10
   origversion: null
-  status: newest
+  status: outdated
   summary: Code formatter
   maintainers:
     - victor@engmark.name
