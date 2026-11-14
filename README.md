@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 52,408 · **Forks**: 5,035 · **Open issues**: 7,400 · **Contributors**: 837
+- **Stars**: 52,411 · **Forks**: 5,032 · **Open issues**: 7,401 · **Contributors**: 837
 
 ## Totals (cumulative)
 
-- **Releases**: 150 · **Merged PRs**: 10559 · **Open PRs**: 318 · **Closed issues**: 6257 · **Open issues**: 1143 · **Commits**: 12123
+- **Releases**: 150 · **Merged PRs**: 10559 · **Open PRs**: 321 · **Closed issues**: 6262 · **Open issues**: 1139 · **Commits**: 12123
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 116 | 42 | 15 | 7 | 162 |
-| last60d | 2026-09-14 | 6 | 219 | 69 | 37 | 18 | 323 |
-| 90d | 2026-08-15 | 6 | 333 | 88 | 53 | 24 | 502 |
-| last180d | 2026-05-17 | 14 | 780 | 110 | 130 | 39 | 1157 |
-| 360d | 2025-11-18 | 23 | 1308 | 132 | 261 | 95 | 1842 |
-| last720d | 2024-11-23 | 33 | 2248 | 149 | 497 | 215 | 2508 |
+| 30d | 2026-10-15 | 2 | 108 | 44 | 13 | 8 | 162 |
+| last60d | 2026-09-15 | 6 | 209 | 72 | 35 | 19 | 323 |
+| 90d | 2026-08-16 | 6 | 332 | 89 | 53 | 25 | 502 |
+| last180d | 2026-05-18 | 14 | 764 | 113 | 129 | 40 | 1157 |
+| 360d | 2025-11-19 | 23 | 1307 | 135 | 261 | 96 | 1842 |
+| last720d | 2024-11-24 | 33 | 2241 | 152 | 496 | 216 | 2508 |
 
 ## Distribution status
 
@@ -71,7 +71,7 @@ Reported by **28** distros on [repology.org](https://repology.org/project/pretti
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `3.8.1` | ⚠️ outdated |
-| Homebrew | `3.10.0` | ✅ latest |
+| Homebrew | `3.10.1` | ✅ latest |
 | Nix unstable | `3.9.10` | ⚠️ outdated |
 | Alpine edge | `3.8.4` | ⚠️ outdated |
 
@@ -84,4 +84,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T08:10:03Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T08:02:51Z._
