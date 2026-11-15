@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.10.1` (2026-11-12)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-14
 
 ## Popularity
 
-- **Stars**: 52,411 · **Forks**: 5,032 · **Open issues**: 7,401 · **Contributors**: 837
+- **Stars**: 52,414 · **Forks**: 5,034 · **Open issues**: 7,401 · **Contributors**: 837
 
 ## Totals (cumulative)
 
-- **Releases**: 150 · **Merged PRs**: 10559 · **Open PRs**: 321 · **Closed issues**: 6262 · **Open issues**: 1139 · **Commits**: 12123
+- **Releases**: 150 · **Merged PRs**: 10562 · **Open PRs**: 327 · **Closed issues**: 6262 · **Open issues**: 1139 · **Commits**: 12126
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 108 | 44 | 13 | 8 | 162 |
-| last60d | 2026-09-15 | 6 | 209 | 72 | 35 | 19 | 323 |
-| 90d | 2026-08-16 | 6 | 332 | 89 | 53 | 25 | 502 |
-| last180d | 2026-05-18 | 14 | 764 | 113 | 129 | 40 | 1157 |
-| 360d | 2025-11-19 | 23 | 1307 | 135 | 261 | 96 | 1842 |
-| last720d | 2024-11-24 | 33 | 2241 | 152 | 496 | 216 | 2508 |
+| 30d | 2026-10-16 | 2 | 111 | 51 | 13 | 7 | 132 |
+| last60d | 2026-09-16 | 6 | 207 | 76 | 32 | 20 | 278 |
+| 90d | 2026-08-17 | 6 | 331 | 96 | 53 | 26 | 461 |
+| last180d | 2026-05-19 | 14 | 758 | 120 | 129 | 40 | 1132 |
+| 360d | 2025-11-20 | 23 | 1310 | 141 | 260 | 96 | 1819 |
+| last720d | 2024-11-25 | 33 | 2222 | 158 | 495 | 215 | 2506 |
 
 ## Distribution status
 
@@ -84,4 +84,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:02:51Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:40:35Z._
