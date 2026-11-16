@@ -43,8 +43,8 @@
   "body": "- GraphQL: Fix empty selection set with comments ([#20504](https://github.com/prettier/prettier/pull/20504) by [@fisker](https://github.com/fisker))\r\n\r\n🔗 [Changelog](https://github.com/prettier/prettier/blob/3.10.1/CHANGELOG.md#3101)",
   "reactions": {
     "url": "https://api.github.com/repos/prettier/prettier/releases/442599318/reactions",
-    "total_count": 1,
-    "+1": 0,
+    "total_count": 2,
+    "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
