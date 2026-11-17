@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.10.1` (2026-11-12)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-17
 
 ## Popularity
 
-- **Stars**: 52,415 · **Forks**: 5,036 · **Open issues**: 7,403 · **Contributors**: 837
+- **Stars**: 52,418 · **Forks**: 5,039 · **Open issues**: 7,404 · **Contributors**: 837
 
 ## Totals (cumulative)
 
-- **Releases**: 150 · **Merged PRs**: 10562 · **Open PRs**: 330 · **Closed issues**: 6262 · **Open issues**: 1141 · **Commits**: 12126
+- **Releases**: 150 · **Merged PRs**: 10565 · **Open PRs**: 337 · **Closed issues**: 6262 · **Open issues**: 1142 · **Commits**: 12129
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 110 | 54 | 13 | 9 | 132 |
-| last60d | 2026-09-17 | 5 | 206 | 79 | 32 | 20 | 278 |
-| 90d | 2026-08-18 | 6 | 324 | 99 | 53 | 28 | 461 |
-| last180d | 2026-05-20 | 14 | 755 | 122 | 128 | 42 | 1132 |
-| 360d | 2025-11-21 | 23 | 1303 | 144 | 259 | 98 | 1819 |
-| last720d | 2024-11-26 | 33 | 2213 | 160 | 492 | 217 | 2480 |
+| 30d | 2026-10-18 | 2 | 108 | 60 | 13 | 10 | 135 |
+| last60d | 2026-09-18 | 4 | 204 | 86 | 31 | 20 | 281 |
+| 90d | 2026-08-19 | 6 | 324 | 107 | 53 | 29 | 464 |
+| last180d | 2026-05-21 | 14 | 758 | 128 | 127 | 43 | 1135 |
+| 360d | 2025-11-22 | 23 | 1303 | 151 | 258 | 98 | 1822 |
+| last720d | 2024-11-27 | 31 | 2215 | 167 | 490 | 215 | 2467 |
 
 ## Distribution status
 
@@ -84,4 +84,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:06:30Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:06:09Z._
