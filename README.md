@@ -14,11 +14,11 @@ x install prettier
 
 ## Code insight
 
-Total: **153,993** lines of code across **6536** files in the top 5 languages.
+Total: **154,055** lines of code across **6536** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 119,135 | 14,210 | 17,453 | 5294 |
+| JavaScript | 119,197 | 14,209 | 17,460 | 5294 |
 | TypeScript | 11,932 | 1,350 | 1,916 | 689 |
 | Css | 5,614 | 312 | 1,058 | 187 |
 | Html | 3,853 | 219 | 430 | 271 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.10.1` (2026-11-12)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-21
 
 ## Popularity
 
-- **Stars**: 52,437 · **Forks**: 5,038 · **Open issues**: 7,408 · **Contributors**: 838
+- **Stars**: 52,443 · **Forks**: 5,040 · **Open issues**: 7,411 · **Contributors**: 838
 
 ## Totals (cumulative)
 
-- **Releases**: 150 · **Merged PRs**: 10578 · **Open PRs**: 333 · **Closed issues**: 6267 · **Open issues**: 1141 · **Commits**: 12143
+- **Releases**: 150 · **Merged PRs**: 10580 · **Open PRs**: 334 · **Closed issues**: 6269 · **Open issues**: 1142 · **Commits**: 12145
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 109 | 52 | 17 | 10 | 162 |
-| last60d | 2026-09-21 | 4 | 207 | 78 | 33 | 20 | 308 |
-| 90d | 2026-08-22 | 6 | 327 | 103 | 55 | 29 | 491 |
-| last180d | 2026-05-24 | 14 | 770 | 124 | 129 | 43 | 1162 |
-| 360d | 2025-11-25 | 23 | 1306 | 147 | 259 | 96 | 1849 |
-| last720d | 2024-11-30 | 31 | 2225 | 163 | 491 | 215 | 2480 |
+| 30d | 2026-10-22 | 2 | 104 | 50 | 19 | 10 | 166 |
+| last60d | 2026-09-22 | 4 | 207 | 78 | 34 | 21 | 312 |
+| 90d | 2026-08-23 | 6 | 325 | 104 | 56 | 30 | 495 |
+| last180d | 2026-05-25 | 14 | 766 | 125 | 131 | 44 | 1166 |
+| 360d | 2025-11-26 | 23 | 1301 | 148 | 260 | 97 | 1853 |
+| last720d | 2024-12-01 | 31 | 2227 | 164 | 493 | 214 | 2482 |
 
 ## Distribution status
 
@@ -84,4 +84,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:29:27Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:49:34Z._
