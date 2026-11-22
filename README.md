@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `3.10.1` (2026-11-12)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-22
 
 ## Popularity
 
-- **Stars**: 52,443 · **Forks**: 5,040 · **Open issues**: 7,411 · **Contributors**: 838
+- **Stars**: 52,440 · **Forks**: 5,045 · **Open issues**: 7,411 · **Contributors**: 838
 
 ## Totals (cumulative)
 
-- **Releases**: 150 · **Merged PRs**: 10580 · **Open PRs**: 334 · **Closed issues**: 6269 · **Open issues**: 1142 · **Commits**: 12145
+- **Releases**: 150 · **Merged PRs**: 10582 · **Open PRs**: 336 · **Closed issues**: 6269 · **Open issues**: 1142 · **Commits**: 12147
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 104 | 50 | 19 | 10 | 166 |
-| last60d | 2026-09-22 | 4 | 207 | 78 | 34 | 21 | 312 |
-| 90d | 2026-08-23 | 6 | 325 | 104 | 56 | 30 | 495 |
-| last180d | 2026-05-25 | 14 | 766 | 125 | 131 | 44 | 1166 |
-| 360d | 2025-11-26 | 23 | 1301 | 148 | 260 | 97 | 1853 |
-| last720d | 2024-12-01 | 31 | 2227 | 164 | 493 | 214 | 2482 |
+| 30d | 2026-10-23 | 2 | 105 | 52 | 18 | 10 | 147 |
+| last60d | 2026-09-23 | 4 | 202 | 80 | 33 | 21 | 290 |
+| 90d | 2026-08-24 | 6 | 325 | 105 | 56 | 30 | 468 |
+| last180d | 2026-05-26 | 14 | 760 | 127 | 130 | 44 | 1117 |
+| 360d | 2025-11-27 | 23 | 1290 | 150 | 254 | 97 | 1773 |
+| last720d | 2024-12-02 | 31 | 2229 | 166 | 493 | 214 | 2483 |
 
 ## Distribution status
 
@@ -84,4 +84,4 @@ Install metadata for prettier lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:49:34Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:10:30Z._
